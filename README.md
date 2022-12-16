@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/upskilling12162022/Upskilling12162022%20.NetCore%20Pipeline%20Training/_apis/build/status/ramltapao13.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/upskilling12162022/Upskilling12162022%20.NetCore%20Pipeline%20Training/_build/latest?definitionId=2&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
